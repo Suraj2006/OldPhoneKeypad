@@ -1,0 +1,14 @@
+C:\Users\suraj.singh\source\OldPhoneKeytpad\OldPhoneKeytpad\bin\Debug\net8.0\OldPhoneKeypad.exe
+C:\Users\suraj.singh\source\OldPhoneKeytpad\OldPhoneKeytpad\bin\Debug\net8.0\OldPhoneKeypad.deps.json
+C:\Users\suraj.singh\source\OldPhoneKeytpad\OldPhoneKeytpad\bin\Debug\net8.0\OldPhoneKeypad.runtimeconfig.json
+C:\Users\suraj.singh\source\OldPhoneKeytpad\OldPhoneKeytpad\bin\Debug\net8.0\OldPhoneKeypad.dll
+C:\Users\suraj.singh\source\OldPhoneKeytpad\OldPhoneKeytpad\bin\Debug\net8.0\OldPhoneKeypad.pdb
+C:\Users\suraj.singh\source\OldPhoneKeytpad\OldPhoneKeytpad\obj\Debug\net8.0\OldPhoneKeypad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suraj.singh\source\OldPhoneKeytpad\OldPhoneKeytpad\obj\Debug\net8.0\OldPhoneKeypad.AssemblyInfoInputs.cache
+C:\Users\suraj.singh\source\OldPhoneKeytpad\OldPhoneKeytpad\obj\Debug\net8.0\OldPhoneKeypad.AssemblyInfo.cs
+C:\Users\suraj.singh\source\OldPhoneKeytpad\OldPhoneKeytpad\obj\Debug\net8.0\OldPhoneKeypad.csproj.CoreCompileInputs.cache
+C:\Users\suraj.singh\source\OldPhoneKeytpad\OldPhoneKeytpad\obj\Debug\net8.0\OldPhoneKeypad.dll
+C:\Users\suraj.singh\source\OldPhoneKeytpad\OldPhoneKeytpad\obj\Debug\net8.0\refint\OldPhoneKeypad.dll
+C:\Users\suraj.singh\source\OldPhoneKeytpad\OldPhoneKeytpad\obj\Debug\net8.0\OldPhoneKeypad.pdb
+C:\Users\suraj.singh\source\OldPhoneKeytpad\OldPhoneKeytpad\obj\Debug\net8.0\OldPhoneKeypad.genruntimeconfig.cache
+C:\Users\suraj.singh\source\OldPhoneKeytpad\OldPhoneKeytpad\obj\Debug\net8.0\ref\OldPhoneKeypad.dll
