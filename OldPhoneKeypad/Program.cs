@@ -8,16 +8,16 @@ public class Program
     {
         #region TESTCASES 
         string output1 = OldPhonePad("33#");   //Expected output:E
-        Console.WriteLine("OldPhonePad(“33#”) => output:" + output1);
+        Console.WriteLine("OldPhonePad(“33#”) => output: " + output1);
 
         string output2 = OldPhonePad("227*#"); // Expected output:B
-        Console.WriteLine("OldPhonePad(227*#)=>output:" + output2);
+        Console.WriteLine("OldPhonePad(227*#)=>output: " + output2);
 
         string output3 = OldPhonePad("4433555 555666#"); // Expected output:HELLO
-        Console.WriteLine("OldPhonePad(4433555 555666#)=>output:" + output3);
+        Console.WriteLine("OldPhonePad(4433555 555666#)=>output: " + output3);
 
         string output4 = OldPhonePad("8 88777444666*664#"); //Expected output:TURING
-        Console.WriteLine("OldPhonePad(8 88777444666*664#)=>output:" + output4);
+        Console.WriteLine("OldPhonePad(8 88777444666*664#)=>output: " + output4);
 
         #endregion
     }
